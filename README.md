@@ -4,11 +4,11 @@ let me introduce myself, my name is Sammy, I'd describe myself as a front-end de
 
 Some information about me :
 
-- 🔭 I’m currently working on [My GitHub Page](https://samxuling.github.io)
 - 🌱 I’m currently learning [Astro](https://astro.build)
+- 🔭 I’m currently working on [My GitHub Page](https://samxuling.github.io)
 - 😄 Pronouns: [he](https://en.m.wikipedia.org/wiki/He_(pronoun))/[him](https://en.m.wikipedia.org/wiki/He_(pronoun)) 
+- 📫 How to reach me: On [GitHub](https://github.com/SamXuLing) for now
 <!--- 👯 I’m looking to collaborate on ...-->
 <!--- 🤔 I’m looking for help with ...-->
 <!--- 💬 Ask me about ...-->
-<!--- 📫 How to reach me: ...-->
 <!--- ⚡ Fun fact: ...-->
